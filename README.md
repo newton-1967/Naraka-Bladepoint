@@ -225,4 +225,4 @@ NARAKA: BLADEPOINT is offered as a full free version, with all features and upda
 Are you ready to embark on an epic melee combat adventure? Download NARAKA: BLADEPOINT now and experience the excitement!
 
 ---
-**Last updated:** 2026-10-20 17:42:10 UTC
+**Last updated:** 2026-10-20 21:06:46 UTC
